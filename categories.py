@@ -123,10 +123,7 @@ categories = {
         "Biezpiens" : [],
         "Olas" : [],
     },
-    "Maize un konditoreja" : {
-        "Maize" : [],
-        "Konditoreja" : [],
-    },
+    "Maize un konditoreja" : [],
     "Saldētie ēdieni" : {
         "Saldētie ēdieni un konditorejas izstrādājumi" : [],
         "Saldētas zivis un jūras veltes" : [],
@@ -151,7 +148,6 @@ categories = {
         "Saldās garšvielas" : [],
         "Pasaules virtuve" : [],
         "Ātri pagatavojami ēdieni": [],
-        
     },
     "Saldumi un uzkodas" : [],
     "Dzērieni" : {
@@ -192,5 +188,7 @@ categories = {
     
     ### CUSTOM CATEGORIES ###
     "Vietējās izcelsmes pārtikas produkti" : [],
-    "Augu izcelsmes produkti" : []
+    "Augu izcelsmes produkti" : [],
+    "Iepakojumi" : [],
+    "Depozīts" : []
 }
